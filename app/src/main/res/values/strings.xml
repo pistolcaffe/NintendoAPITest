@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NintendoAPITest</string>
+    <string name="bookmark1"><u>1. 자기소개 + 리액션 (안녕)</u></string>
+    <string name="bookmark2"><u>2. 감사합니다 + 리액션 (해피)</u></string>
+    <string name="bookmark3"><u>3. 축하드려요 + 리액션 (박수)</u></string>
+</resources>
